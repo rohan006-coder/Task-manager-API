@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
-*.db
 venv/
-.venv/
+tasks.db
+server.log
+openapi.json
 .env
